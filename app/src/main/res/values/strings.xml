@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="amount">Amount</string>
+    <string name="amountFill">Enter your amount</string>
+    <string name="paxNo">Number of Pax</string>
+    <string name="editPaxNo">Enter the Number of Pax</string>
+    <string name="WithSvc">Svc</string>
+    <string name="WithoutSvc">No Svc</string>
+    <string name="gst">GST</string>
+    <string name="withoutGst">No GST</string>
+    <string name="discount">Discount(%)</string>
+    <string name="editDiscount">Enter your Discount</string>
+    <string name="cash">Cash</string>
+    <string name="payNow">PayNow</string>
+    <string name="split">Split</string>
+    <string name="reset">Reset</string>
+    <string name="text_view_hint">Display the calculation.</string>
+</resources>
